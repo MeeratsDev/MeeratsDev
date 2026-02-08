@@ -1,15 +1,15 @@
 # 💫 About Me:
 I am Meerats a 14 year old indie game developer, I am working on several projects and am working to start my own company.<br><br><br>
 ## Projects
-|# Project     |# Status     |# Lang     |# Libs/Engine/Framework     |
+|# Project     |# Status     |# Language     |# Libs/Engine/Framework     |
 |------------|-----------|---------|---------|
-|[WatchFlicker](https://flicker.doubtmedia.com)   |Near Release |HTML, CSS, JS, Python |Firebase, WEX, Flask|
+|[WatchFlicker](https://flicker.doubtmedia.com)   |Complete |HTML, CSS, JS, Python |Firebase, WEX, Flask, Cloudflare|
 |[Games on Github](https://meeratsdev.github.io/gamesongithub/)   |Complete |HTML, CSS, JS   |N/A  |
 |[PyGamble](https://github.com/meeratsdev/piv/releases/tag/Pycade)   |Complete |Python   |N/A  |
 |[M.E.D.S](https://github.com/meeratsdev/anarchy)   |Complete |MicroPython   |Spike Prime  |
 |Pylate   |Complete |Python   |N/A  |
 |Lua++   |Incomplete |C/C#   |N/A  |
-|Sectorfall   |Incomplete |GDScript, C#   |Godot 4, Blockbench  |
+|Sectorfall   |Incomplete |GDScript, C#   |Godot 4, Blockbench, Azure  |
 
 ## How I work<
 I work differently on every project, for games specifically I work with a team of other devs and desginers at [Doubt](https://doubtmedia.com). When it comes to my Python suite of games and tools I develop them alone usually when I get bored during classes at school. And for Viewpoint I work solo once again because it is meant to be more of my testing grounds for new UI/UX learning and webdev.
