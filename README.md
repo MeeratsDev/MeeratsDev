@@ -10,3 +10,4 @@ I am Meerats a 14 year old indie game developer, I am working on several project
 |[Astromech](https://github.com/meeratsdev/Astromech-Bot)   |Incomplete |Python   |discord.py  |
 |Sectorfall   |Incomplete |GDScript, C#   |Godot 4, Blockbench, Azure  |
 |[Symlang](https://github.com/meeratsdev/Symlang)   |Incomplete |Python, Rust   |N/A  |
+|Chromite  |Incomplete |GDScript, C#   |Godot 4  |
