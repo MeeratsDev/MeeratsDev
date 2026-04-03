@@ -1,5 +1,5 @@
 # About Me:
-I am Meerats a 14 year old indie game developer, I am working on several projects and am working to start my own company.<br><br><br>
+I'm a 14 year old developer, I work on several open-source projects.br><br><br>
 ## Projects
 |# Project     |# Status     |# Language     |# Libs/Engine/Framework     |
 |------------|-----------|---------|---------|
